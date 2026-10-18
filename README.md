@@ -2,7 +2,7 @@
 
 # Hi, I'm Hibah Faheem 🦇
 
-I'm an aspiring **software engineer, AI developer, and quantitative finance enthusiast**. I enjoy building intelligent systems, working with physical computing, and exploring machine learning algorithms—from voice-interactive agents to quantitative market indicators.
+I'm an aspiring **software engineer, AI developer, and quantitative finance enthusiast**. I enjoy building intelligent systems, working with physical computing, and exploring machine learning algorithms, going from voice-interactive agents to quantitative market indicators!
 
 ## 🔭 What I'm working on
 
@@ -25,13 +25,7 @@ I'm an aspiring **software engineer, AI developer, and quantitative finance enth
 
 **Tools & Hardware:** ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white) ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?logo=latex&logoColor=white)
 
-## ⚡ Fun facts
-
-- 🍰 **Ultimate Coding Fuel:** Tiramisu over everything.
-- 🐈 **Co-Pilot:** A stray cat has officially claimed my backyard and keeps me company while I code.
-
 ## 📫 Get in touch
 
 - 📧 Hibfahee@gmail.com
 - 💼 https://www.linkedin.com/in/hibah-faheem-7557ba352/?isSelfProfile=true
-- 🌐 xxx
