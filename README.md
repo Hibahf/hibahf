@@ -28,4 +28,4 @@ I'm an aspiring **software engineer, AI developer, and quantitative finance enth
 ## 📫 Get in touch
 
 - 📧 Hibfahee@gmail.com
-- 💼 https://www.google.com/goto?url=CAESbQHrOzAVlisxCptai079zc5gnfcsqxSy3T7FP2pLm8gqwGJ9GRSTKCqsGaMl54boimTsI6Z-Kgys4UzSQ21MQFdMV2NmIXEjefVyIfkXmlL89aqefC2JaotvXxdC6OYCw-r_KORH4s0t5vm9kb0
+- 💼 https://www.linkedin.com/in/hibah-faheem-7557ba352/
